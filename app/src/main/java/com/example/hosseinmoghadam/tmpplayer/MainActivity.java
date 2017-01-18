@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity
             fragmentClass=Playlists.class;
         } else if (id == R.id.songs) {
 
-
+            fragmentClass=Songs.class;
 
         } else if (id == R.id.nav_share) {
 
